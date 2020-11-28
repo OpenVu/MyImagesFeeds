@@ -1,4 +1,5 @@
 MyImagesFeeds
-This is my images Feed (BlackHole And OpenTSimage)
+=================================================
+This is my images Feed (Openvision And Oe-Alliance)
 
-For DM920 and DM520
+For DM520
